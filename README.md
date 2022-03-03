@@ -5,9 +5,7 @@ Configured for Minecraft version 1.18.2 Mods for version 1.18.0, 1.18.1 or other
 
 # Installation
 
-1. Download [Fabric Modloader](https://fabricmc.net/).
-2. Copy the .jar file to your server folder.
-3. ...
+1. ...
 
 # Installed Server Mods
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api): Dependency.
