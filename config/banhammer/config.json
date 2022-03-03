@@ -1,0 +1,28 @@
+{
+  "CONFIG_VERSION_DONT_TOUCH_THIS": 1,
+  "punishmentsAreSilent": false,
+  "storeAllPunishmentsInHistory": true,
+  "muteBlockedCommands": [
+    "msg",
+    "me"
+  ],
+  "defaultTempPunishmentDurationLimit": "-1",
+  "permissionTempLimit": {
+    "example": "31d"
+  },
+  "standardBanPlayersWithBannedIps": false,
+  "autoBansFromIpBansAreSilent": true,
+  "defaultOpPermissionLevel": 3,
+  "discordWebhookUrl": "",
+  "databaseType": "sqlite",
+  "sqliteDatabaseLocation": "banhammer-sqlite.db",
+  "mysqlDatabaseAddress": "",
+  "mysqlDatabaseName": "",
+  "mysqlDatabaseUsername": "",
+  "mysqlDatabasePassword": "",
+  "mysqlDatabaseArgs": {
+    "useUnicode": "true",
+    "autoReconnect": "true"
+  },
+  "databasePrefix": ""
+}
