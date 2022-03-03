@@ -1,11 +1,14 @@
 # EhBMinecraftServer
 Minecraft server configuration for the EhB Gaming Community. Uses [Fabric Modloader](https://fabricmc.net/).<br>
-Configured for Minecraft version 1.18.2 Mods for version 1.18.0, 1.18.1 or other minor versions should still be compatible but needs to be tested first.<br>
-
+Configured for Minecraft version 1.18.2. Mods for version 1.18.0, 1.18.1 or other minor versions should still be compatible but need to be tested first.<br>
 
 # Installation
 
-1. ...
+1. Clone this repository.
+2. cd EhBMinecraftServer
+3. run ./download_server.bat
+4. Pull all mods in the mods folder. Will be automated in the future.
+5. run ./start.bat
 
 # Installed Server Mods
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api): Dependency.
@@ -51,3 +54,7 @@ Configured for Minecraft version 1.18.2 Mods for version 1.18.0, 1.18.1 or other
 These mods are entirely optional.
 - [Sodium](https://modrinth.com/mod/sodium): Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft. Up to 5x FPS increase.
 - [MoreCommands](https://www.curseforge.com/minecraft/mc-mods/morecommands): Adds more commands. Discord integration?
+
+# TODO
+- Auto-start server when VM starts.
+- Auto-download all mods script. 
