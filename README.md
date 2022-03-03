@@ -10,6 +10,7 @@ Configured for Minecraft version 1.18.2 Mods for version 1.18.0, 1.18.1 or other
 3. ...
 
 # Installed Server Mods
+- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api): Required dependency for most mods.
 - [Textile Backup](https://www.curseforge.com/minecraft/mc-mods/textile-backup): Server Backups.
 - [First Join Message](https://www.curseforge.com/minecraft/mc-mods/first-join-message-fabric): Sends a message to players who join a world for the first time.
 - [Spark](https://www.curseforge.com/minecraft/mc-mods/spark): Performance profiler.
