@@ -2,6 +2,13 @@ logs/
 .fabric
 libraries
 versions
+ehbworld
+
+*.db
+banned-ips.json
+banned-players.json
+whitelist.json
+usercache.json
 
 # Compiled class file
 *.class
