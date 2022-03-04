@@ -1,7 +1,7 @@
 [
   {
-    "uuid": "de0754dc-6fea-42df-b32b-5ffb0bedfd3d",
-    "name": "404NameMissing",
+    "uuid": "538e8697-7139-4987-bc4f-d19fcd1c2cd8",
+    "name": "Sheenic",
     "level": 4,
     "bypassesPlayerLimit": true
   },
@@ -18,8 +18,8 @@
     "bypassesPlayerLimit": true
   },
   {
-    "uuid": "538e8697-7139-4987-bc4f-d19fcd1c2cd8",
-    "name": "Sheenic",
+    "uuid": "de0754dc-6fea-42df-b32b-5ffb0bedfd3d",
+    "name": "404NameMissing",
     "level": 4,
     "bypassesPlayerLimit": true
   }

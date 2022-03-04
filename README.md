@@ -19,6 +19,8 @@ Configured for Minecraft version 1.18.2. Mods for version 1.18.0, 1.18.1 or othe
 - [Cloth Config API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-config): Dependency.
 - [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu/): Dependency.
 - [Textile Backup](https://www.curseforge.com/minecraft/mc-mods/textile-backup): Server Backups.
+- [FerriteCore](https://modrinth.com/mod/ferrite-core): Memory usage optimizer. [Explanation]((https://github.com/malte0811/FerriteCore/blob/main/summary.md)) For the Java nerds.
+- [ServerCore](https://www.curseforge.com/minecraft/mc-mods/servercore): Various minor server-side performance improvements.  
 - [First Join Message](https://www.curseforge.com/minecraft/mc-mods/first-join-message-fabric): Sends a message to players who join a world for the first time.
 - [Spark](https://www.curseforge.com/minecraft/mc-mods/spark): Performance profiler.
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps): Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area.
@@ -33,6 +35,7 @@ Configured for Minecraft version 1.18.2. Mods for version 1.18.0, 1.18.1 or othe
 - [Compact Help Command](https://www.curseforge.com/minecraft/mc-mods/compact-help-command-fabric): Better /help command.
 
 ### Mods of interest
+- [MCDiscordChat](https://modrinth.com/mod/mcdiscordchat): Discord integration.
 - [LuckPerms](https://luckperms.net/): Very advanced permissions management.
 - [Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric): Performance fix for furnaces. Currently broken? Try again later.
 - [FabricHomes](https://www.curseforge.com/minecraft/mc-mods/fabrichomes): Enkele commands om home locatie in te stellen. Misschien handig om met discord te integreren.
@@ -43,7 +46,6 @@ Configured for Minecraft version 1.18.2. Mods for version 1.18.0, 1.18.1 or othe
 - [Teams](https://www.curseforge.com/minecraft/mc-mods/teams): Teams. Not sure if it required client-side install.
 - [Ledger](https://www.curseforge.com/minecraft/mc-mods/ledger): Server logger.
 - [MoreCommands](https://www.curseforge.com/minecraft/mc-mods/morecommands): Adds more commands. Discord integration?
-- [ServerCore](https://www.curseforge.com/minecraft/mc-mods/servercore): Various minor server-side performance improvements.  
 - [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current): Much faster redstone implementation. Redstone will no longer be directional so some redstone builds will break.
 - [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis): Faster loading when booting server. VM is very slow.
 - [Server Holograms](https://www.curseforge.com/minecraft/mc-mods/server-holograms): Server side holograms with full support for formatting and items.
@@ -62,3 +64,4 @@ These mods are entirely optional.
 # TODO
 - Auto-start server when VM starts.
 - Auto-download all mods script.
+- ServerCore mod complicated configuration.
