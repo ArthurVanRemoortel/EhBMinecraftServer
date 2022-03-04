@@ -10,6 +10,9 @@ Configured for Minecraft version 1.18.2. Mods for version 1.18.0, 1.18.1 or othe
 4. Pull all mods in the mods folder. Will be automated in the future.
 5. run ./start.bat
 
+# Config Guides
+- Text Formatting. [(guide)](https://placeholders.pb4.eu/user/default-placeholders/)
+
 # Installed Server Mods
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api): Dependency.
 - [Collective (Fabric)](https://www.curseforge.com/minecraft/mc-mods/collective-fabric): Dependency.
@@ -30,6 +33,7 @@ Configured for Minecraft version 1.18.2. Mods for version 1.18.0, 1.18.1 or othe
 - [Compact Help Command](https://www.curseforge.com/minecraft/mc-mods/compact-help-command-fabric): Better /help command.
 
 ### Mods of interest
+- [LuckPerms](https://luckperms.net/): Very advanced permissions management.
 - [Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric): Performance fix for furnaces. Currently broken? Try again later.
 - [FabricHomes](https://www.curseforge.com/minecraft/mc-mods/fabrichomes): Enkele commands om home locatie in te stellen. Misschien handig om met discord te integreren.
 - [Multiplayer Server Pause](https://www.curseforge.com/minecraft/mc-mods/multiplayer-server-pause-fabric): Helps save server resources by pausing server when nobody is connected.
