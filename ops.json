@@ -4,5 +4,23 @@
     "name": "404NameMissing",
     "level": 4,
     "bypassesPlayerLimit": true
+  },
+  {
+    "uuid": "f38d79ee-f5d1-431a-9ba4-e7109b8e42a4",
+    "name": "Jorritmaes97",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  },
+  {
+    "uuid": "88b2f8e2-5686-4c36-af0f-500a5185a6d2",
+    "name": "Bignose6909",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  },
+  {
+    "uuid": "538e8697-7139-4987-bc4f-d19fcd1c2cd8",
+    "name": "Sheenic",
+    "level": 4,
+    "bypassesPlayerLimit": true
   }
 ]
