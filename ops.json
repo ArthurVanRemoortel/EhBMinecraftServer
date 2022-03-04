@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "de0754dc-6fea-42df-b32b-5ffb0bedfd3d",
+    "name": "404NameMissing",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  }
+]
