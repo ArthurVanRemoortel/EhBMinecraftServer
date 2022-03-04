@@ -6,9 +6,9 @@
   "switchMessage": "Your player list style has been changed to: <gold>${style}</gold>",
   "unknownStyleMessage": "<red>This style doesn't exist!</red>",
   "permissionMessage": "<red>You don't have required permissions!</red>",
-  "changePlayerName": false,
+  "changePlayerName": true,
   "playerNameFormat": "%player:displayname%",
-  "updatePlayerNameEveryChatMessage": false,
-  "playerNameUpdateRate": -1,
+  "updatePlayerNameEveryChatMessage": true,
+  "playerNameUpdateRate": 400,
   "permissionNameFormat": []
 }

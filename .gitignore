@@ -4,6 +4,7 @@ libraries
 versions
 ehbworld
 backup
+crash-reports
 
 *.db
 banned-ips.json
