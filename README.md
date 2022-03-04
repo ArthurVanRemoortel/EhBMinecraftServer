@@ -52,9 +52,9 @@ Configured for Minecraft version 1.18.2. Mods for version 1.18.0, 1.18.1 or othe
 
 # Recommended Client-side Mods
 These mods are entirely optional.
-- [Sodium](https://modrinth.com/mod/sodium): Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft. Up to 5x FPS increase.
+- [Sodium](https://modrinth.com/mod/sodium): Requires [Fabric](https://fabricmc.net/) Launcher. Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft. Up to 5x FPS increase. Like optifine but better.
 - [MoreCommands](https://www.curseforge.com/minecraft/mc-mods/morecommands): Adds more commands. Discord integration?
 
 # TODO
 - Auto-start server when VM starts.
-- Auto-download all mods script. 
+- Auto-download all mods script.
