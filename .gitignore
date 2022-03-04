@@ -3,12 +3,14 @@ logs/
 libraries
 versions
 ehbworld
+backup
 
 *.db
 banned-ips.json
 banned-players.json
 whitelist.json
 usercache.json
+ipcache.json
 
 # Compiled class file
 *.class
