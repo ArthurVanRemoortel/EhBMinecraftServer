@@ -36,6 +36,7 @@
         "displayName": "<dark_gray>[<aqua>Player</aqua>]</dark_gray> <dark_aqua>${vanillaDisplayName}</dark_aqua>"
       }
     },
+    null
   ],
   "petDeathMessage": "${default_message}",
   "emoticons": {
