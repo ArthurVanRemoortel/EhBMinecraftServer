@@ -12,7 +12,7 @@
     "",
     "<color:#555555><strikethrough>                          </strikethrough></color>",
     "",
-    "<gray>TPS: %server:tps_colored% <dark_gray>|</dark_gray> <gray>Ping: <color:#ffba26>%player:ping%</color> <dark_gray>|</dark_gray> <gray>CPU: <color:#ffba26>%spark:cpu_system/10s%</color>",
+    "<gray>TPS: %server:tps_colored% <dark_gray>|</dark_gray> <gray>Ping: <color:#ffba26>%player:ping%</color> <dark_gray>|</dark_gray> <gray>VM CPU: <color:#ffba26>%spark:cpu_system/10s%</color>",
     ""
   ],
   "hidden": false,

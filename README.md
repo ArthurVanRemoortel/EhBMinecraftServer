@@ -11,7 +11,10 @@ Configured for Minecraft version 1.18.2. Mods for version 1.18.0, 1.18.1 or othe
 5. run ./start.bat
 
 # Config Guides
-- Text Formatting. [(guide)](https://placeholders.pb4.eu/user/default-placeholders/)
+- Text Formatting: [(guide)](https://placeholders.pb4.eu/user/default-placeholders/)
+- Styled Nicknames: [(guide)](https://www.curseforge.com/minecraft/mc-mods/styled-nicknames)
+- Styled Player List: [(guide)](https://github.com/Patbox/StyledPlayerList#configuration)
+
 
 # Installed Server Mods
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api): Dependency.
