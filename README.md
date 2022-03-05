@@ -36,6 +36,11 @@ Configured for Minecraft version 1.18.2. Mods for version 1.18.0, 1.18.1 or othe
 - [Styled Player List](https://www.curseforge.com/minecraft/mc-mods/styled-player-list): It's a simple mod that allows server owners to style their player list as they like! With full permission support, placeholder API support, multiple styles and player name overrides.
 - [BanHammer](https://www.curseforge.com/minecraft/mc-mods/patboxs-banhammer): Simple, customizable punishment utility mod for Fabric. Allows moderators to permanently/temporary ban, mute or kick players.
 - [Compact Help Command](https://www.curseforge.com/minecraft/mc-mods/compact-help-command-fabric): Better /help command.
+- [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis): Faster loading when booting server. VM is very slow.
+- [LazyDFU](https://modrinth.com/mod/lazydfu): Performance improvements by making some initialization lazy.
+- [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton): Networking performance optimizer.
+- [Server Chat History](https://modrinth.com/mod/server-chat-history): Sends the chat history to players on join.
+- [Plan | Player Analytics](https://www.curseforge.com/minecraft/mc-mods/plan-player-analytics): Dashboard with analytics.
 
 ### Mods of interest
 - [MCDiscordChat](https://modrinth.com/mod/mcdiscordchat): Discord integration.
@@ -50,10 +55,8 @@ Configured for Minecraft version 1.18.2. Mods for version 1.18.0, 1.18.1 or othe
 - [Ledger](https://www.curseforge.com/minecraft/mc-mods/ledger): Server logger.
 - [MoreCommands](https://www.curseforge.com/minecraft/mc-mods/morecommands): Adds more commands. Discord integration?
 - [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current): Much faster redstone implementation. Redstone will no longer be directional so some redstone builds will break.
-- [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis): Faster loading when booting server. VM is very slow.
 - [Server Holograms](https://www.curseforge.com/minecraft/mc-mods/server-holograms): Server side holograms with full support for formatting and items.
 - [Chunky Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator): Pre-generate chunks.
-- [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton): Networking performance optimizer. WIP so test if first.
 - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs-fabric): Write JavaScript scripts to manage the server.
 - [Starter Kit](https://www.curseforge.com/minecraft/mc-mods/starter-kit-fabric): Give players server rules or something.
 - [Fabric Tree Chopper](https://www.curseforge.com/minecraft/mc-mods/fabric-tree-chopper): Destroys entire trees.

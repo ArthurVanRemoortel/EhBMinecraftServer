@@ -6,6 +6,7 @@ ehbworld
 backup
 crash-reports
 config/spark
+config/plan/cached_json
 
 *.db
 banned-ips.json
