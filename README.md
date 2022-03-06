@@ -6,9 +6,7 @@ Configured for Minecraft version 1.18.2. Mods for version 1.18.0, 1.18.1 or othe
 
 1. Clone this repository.
 2. cd EhBMinecraftServer
-3. run ./download_server.bat
-4. Pull all mods in the mods folder. Will be automated in the future.
-5. run ./start.bat
+3. run ./start.bat
 
 # Config Guides
 - Text Formatting: [(guide)](https://placeholders.pb4.eu/user/default-placeholders/)
